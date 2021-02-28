@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jps-yes.github.io
+Token: 827187bc3c01bbc42a141bb844c37cfa194ace01572edfb53bd1390ca223f57f
