@@ -1,4 +1,5 @@
-# Soccer Predictor
-[OPEN](https://jps-yes.github.io/soccer_predictor/)
+# Projects
+## - [Soccer Predictor](https://jps-yes.github.io/soccer_predictor/)
 
-### UNDER CONSTRUCTION
+
+### Website UNDER CONSTRUCTION
